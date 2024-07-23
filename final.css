@@ -1,0 +1,60 @@
+body{
+    background-color: cornflowerblue;
+      padding: 25px 20px 18px;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  
+  }
+  .container{
+     background-color: green;
+      max-width: 500px;
+      padding: 25px 20px 20px;
+      border-radius: 7px;
+      border-color: chartreuse;
+   
+   
+  }
+  .inner{
+    background-color: crimson;
+    padding:100px; 
+    
+    
+    
+  }
+  input{
+    width:100%;
+      height:35px;
+    outline:dotted;
+    font-size:20px;
+    
+  
+  }
+  input:focus{
+      border-bottom: 2px solid red;
+  
+  }
+  
+  
+  
+  .result{
+      text-align: center;
+      color: black;
+      size: 80px;
+  }
+  header h1{
+    font-size:30px;
+    font-weight:500;
+  }
+  header p {
+    margin-top:5px;
+    font-size:20px;  
+  }
+  button{
+    width:100%;
+    height:50px;
+    
+  
+  }
+  
